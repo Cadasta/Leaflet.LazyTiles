@@ -1,0 +1,18 @@
+{
+  "name": "lazytiles",
+  "version": "0.1.0",
+  "description": "Load XYZ tiles only if the area was not covered",
+  "main": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Oliver Roick",
+  "license": "AGPL-3.0",
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.2.0"
+  }
+}
